@@ -5,6 +5,7 @@ We prepared this document in the hopes that it will answer most of your question
 Since your core functionality is provided via Solidity contracts, we have taken care to provide you with as much examples and instructions as posible to help you navigate the transition from the existing ERC-721 tokens to the Unique native model.
 
 Once you read theough the documentation, we propose that you attempt to replicate the follwing steps to master your challenge:
+
 1. create a wallet selector that uses any of {polkadot.js wallet, Sublwallet, Talisman, Meatamask, Wallet Connect} wallet to connect to your app.
 2. create a collecrtion using the SDK
 3. mint a token using the SDK
@@ -13,6 +14,7 @@ Once you read theough the documentation, we propose that you attempt to replicat
 6. nest a token
 
 ALL the examples for this except point 6 are shown in this video: https://youtu.be/Cid_Ui5e0rk
+
 To nest you just send a native token to a native token address as though it is a wallet. 
 
 Read on...
