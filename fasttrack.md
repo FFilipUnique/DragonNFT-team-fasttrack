@@ -134,4 +134,5 @@ EVM workhop demonstrates how to do this.
 - [How do we mutate token attributes](https://github.com/UniqueNetwork/unique-react-template/blob/ab923457ece54f6ac6d1f2f47fc08ea52363dad1/contracts/contracts/BreedingGame.sol#L197-L202)
 - [How do we call these solidity functions on the UI](https://github.com/UniqueNetwork/unique-react-template/blob/ab923457ece54f6ac6d1f2f47fc08ea52363dad1/src/pages/BreedingPage.tsx#L138-L173)
 
-- Please remember to view this video:  https://youtu.be/Cid_Ui5e0rk
+
+Please remember to view this video:  https://youtu.be/Cid_Ui5e0rk
