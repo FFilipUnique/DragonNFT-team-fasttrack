@@ -7,7 +7,7 @@ Since your core functionality is provided via Solidity contracts, we have taken 
 Once you read theough the documentation, we propose that you attempt to replicate the follwing steps to master your challenge:
 
 1. create a wallet selector that uses any of {polkadot.js wallet, Sublwallet, Talisman, Meatamask, Wallet Connect} wallet to connect to your app.
-2. create a collecrtion using the SDK
+2. create a collection using the SDK
 3. mint a token using the SDK
 4. write a Solidity contract in the EVM to use with the native NFT to change some NFT attribute, for example
 5. call that contract from the SDK
@@ -85,7 +85,7 @@ or convert the address to CrossAccount directly:
 A lot of examples of how to use CrossAddress with evm and substrate accounts can be found in recipes of unique-contracts repo. For example:
 - minter contract: https://github.com/UniqueNetwork/unique-contracts/blob/main/contracts/recipes/Minter.sol#L100
 - test: how to call the minter contract with evm account https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
-- test: how to call the minter contract with substrate account (atm uses sdk 1.0): https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
+- test: how to call the minter contract with substrate account (atm written for SDK 1.0, but is just as valid in SDK 2.0): https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
 
 ## Signers and Wallets
 
