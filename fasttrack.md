@@ -85,7 +85,7 @@ or convert the address to CrossAccount directly:
 A lot of examples of how to use CrossAddress with evm and substrate accounts can be found in recipes of unique-contracts repo. For example:
 - minter contract: https://github.com/UniqueNetwork/unique-contracts/blob/main/contracts/recipes/Minter.sol#L100
 - test: how to call the minter contract with evm account https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
-- test: how to call the minter contract with substrate account (atm written for SDK 1.0, but is just as valid in SDK 2.0): https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
+- test: how to call the minter contract with substrate account: https://github.com/UniqueNetwork/unique-contracts/blob/main/test/minter.spec.ts
 
 ## Signers and Wallets
 
