@@ -14,7 +14,7 @@ The premise of this document is as follows (for whom this document is intended):
 
 Since your core functionality is provided via Solidity contracts, we have taken care to provide you with as much examples and instructions as possible to help you navigate the transition from the existing ERC-721 tokens to the Unique native model.
 
-One note to be mindful of is: the most efficient way of accomplishing this goal is by using the Unique SDK 2.0. It will provide you with the framework, the tools and the methods to make this fast and easy, so do brush up on your Typescriot if you have been away from it for a while. It will save you an enormous amount of time.
+One note to be mindful of is: the most efficient way of accomplishing this goal is by using the Unique SDK 2.0. It will provide you with the framework, the tools and the methods to make this fast and easy, so do brush up on your Typescript if you have been away from it for a while. It will save you an enormous amount of time. To make it as real-world as possible, we have implemented our SDK calls in a React framework so you can gauge how the SDK functions in a UI context and you can see it all in the video listed below.
 
 That said...
 
